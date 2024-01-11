@@ -4,7 +4,7 @@
 
 Welcome to the [RTCode.io](//rtcode.io) GitHub repository!
 
-This repository serves as our primary way of [keeping track of bugs](https://github.com/rtcode-io/feedback/issues).
+This repository serves as our primary way of [keeping track of feedback](https://github.com/rtcode-io/feedback/issues).
 
 If you have any questions/ideas/feedback, feel free to
 - [open a discussion](https://github.com/rtcode-io/feedback/discussions/new/choose)
